@@ -15,3 +15,6 @@ https://t.me/proxy?server=berlin.mazums.org&port=443&secret=eed60c2615c49b9635eb
 
 
 # راح تتحدث روابط يوميا حتى يتم الغاء حظر من العراق
+
+
+# من قبل المطور [يوسف](t.me/is_zone)
